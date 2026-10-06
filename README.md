@@ -56,9 +56,9 @@ open_to: Backend Internships, Software Engineering Roles & Open-Source Collabora
 #### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 #### ⚙️ Backend Architecture & Frameworks
@@ -237,7 +237,7 @@ I am actively deepening my expertise in modern distributed systems and cloud eng
     <img src="https://github-readme-stats.vercel.app/api?username=Sathish45-sat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="175" />
   </a>
   <a href="https://github.com/Sathish45-sat">
-    <img src="https://streak-stats.demolab.com?user=Sathish45-sat&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata&cache_seconds=1800" alt="GitHub Streak" height="175" />
+    <img src="https://streak-stats.demolab.com?user=Sathish45-sat&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata&cache_seconds=1800&v=2" alt="GitHub Streak" height="175" />
   </a>
 
   <br/><br/>
@@ -248,6 +248,8 @@ I am actively deepening my expertise in modern distributed systems and cloud eng
   </a>
 
   <br/><br/>
+
+</div>
 
 ---
 
